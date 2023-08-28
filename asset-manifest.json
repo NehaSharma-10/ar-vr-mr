@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ar-vr-mr/static/css/main.6cee7613.css",
-    "main.js": "/ar-vr-mr/static/js/main.6f7c344c.js",
+    "main.css": "/ar-vr-mr/static/css/main.b8a62b37.css",
+    "main.js": "/ar-vr-mr/static/js/main.b9a425cd.js",
     "static/media/Heineken Silver LOGO.png": "/ar-vr-mr/static/media/Heineken Silver LOGO.08405bfc59da42d51b8b.png",
     "index.html": "/ar-vr-mr/index.html",
-    "main.6cee7613.css.map": "/ar-vr-mr/static/css/main.6cee7613.css.map",
-    "main.6f7c344c.js.map": "/ar-vr-mr/static/js/main.6f7c344c.js.map"
+    "main.b8a62b37.css.map": "/ar-vr-mr/static/css/main.b8a62b37.css.map",
+    "main.b9a425cd.js.map": "/ar-vr-mr/static/js/main.b9a425cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cee7613.css",
-    "static/js/main.6f7c344c.js"
+    "static/css/main.b8a62b37.css",
+    "static/js/main.b9a425cd.js"
   ]
 }
